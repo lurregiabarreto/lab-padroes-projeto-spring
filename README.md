@@ -88,13 +88,6 @@ Ferramenta de build e gerenciamento de dependências. O Maven é usado para comp
 
    [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html)
 
-## Estrutura do Projeto
-
-- `src/main/java/com/explorando/padroes/singleton`: Contém a implementação do padrão Singleton.
-- `src/main/java/com/explorando/padroes/strategy`: Contém a implementação dos padrões Strategy e Repository.
-- `src/main/java/com/explorando/padroes/facade`: Contém a implementação do padrão Facade.
-- `src/test`: Testes unitários cobrindo as funcionalidades dos padrões.
-
 ## Documentação da API
 
 Este projeto usa o **Swagger/OpenAPI** para gerar documentação interativa da API. Após iniciar o projeto, a documentação pode ser acessada em:
